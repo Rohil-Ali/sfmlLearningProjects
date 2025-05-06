@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rohai\\Desktop\\SFMLLearningProjects\\SFML_Circle_Generator_Gravity_Collider_Physics\\SFMLsetup\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A04DEAB-4320-42BB-B5E1-3678F7E63C62}|SFMLsetup\\SFMLsetup.vcxproj|C:\\Users\\rohai\\Desktop\\SFMLLearningProjects\\SFML_Circle_Generator_Gravity_Collider_Physics\\SFMLsetup\\SFMLsetup\\Collider.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4A04DEAB-4320-42BB-B5E1-3678F7E63C62}|SFMLsetup\\SFMLsetup.vcxproj|solutionrelative:SFMLsetup\\Collider.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A04DEAB-4320-42BB-B5E1-3678F7E63C62}|SFMLsetup\\SFMLsetup.vcxproj|C:\\Users\\rohai\\Desktop\\SFMLLearningProjects\\SFML_Circle_Generator_Gravity_Collider_Physics\\SFMLsetup\\SFMLsetup\\Collider.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4A04DEAB-4320-42BB-B5E1-3678F7E63C62}|SFMLsetup\\SFMLsetup.vcxproj|solutionrelative:SFMLsetup\\Collider.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A04DEAB-4320-42BB-B5E1-3678F7E63C62}|SFMLsetup\\SFMLsetup.vcxproj|C:\\Users\\rohai\\Desktop\\SFMLLearningProjects\\SFML_Circle_Generator_Gravity_Collider_Physics\\SFMLsetup\\SFMLsetup\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4A04DEAB-4320-42BB-B5E1-3678F7E63C62}|SFMLsetup\\SFMLsetup.vcxproj|solutionrelative:SFMLsetup\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A04DEAB-4320-42BB-B5E1-3678F7E63C62}|SFMLsetup\\SFMLsetup.vcxproj|C:\\Users\\rohai\\Desktop\\SFMLLearningProjects\\SFML_Circle_Generator_Gravity_Collider_Physics\\SFMLsetup\\SFMLsetup\\Circle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4A04DEAB-4320-42BB-B5E1-3678F7E63C62}|SFMLsetup\\SFMLsetup.vcxproj|solutionrelative:SFMLsetup\\Circle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A04DEAB-4320-42BB-B5E1-3678F7E63C62}|SFMLsetup\\SFMLsetup.vcxproj|C:\\Users\\rohai\\Desktop\\SFMLLearningProjects\\SFML_Circle_Generator_Gravity_Collider_Physics\\SFMLsetup\\SFMLsetup\\Circle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4A04DEAB-4320-42BB-B5E1-3678F7E63C62}|SFMLsetup\\SFMLsetup.vcxproj|solutionrelative:SFMLsetup\\Circle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Circle.h",
+              "DocumentMoniker": "C:\\Users\\rohai\\Desktop\\SFMLLearningProjects\\SFML_Circle_Generator_Gravity_Collider_Physics\\SFMLsetup\\SFMLsetup\\Circle.h",
+              "RelativeDocumentMoniker": "SFMLsetup\\Circle.h",
+              "ToolTip": "C:\\Users\\rohai\\Desktop\\SFMLLearningProjects\\SFML_Circle_Generator_Gravity_Collider_Physics\\SFMLsetup\\SFMLsetup\\Circle.h",
+              "RelativeToolTip": "SFMLsetup\\Circle.h",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-29T15:53:53.979Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Circle.cpp",
+              "DocumentMoniker": "C:\\Users\\rohai\\Desktop\\SFMLLearningProjects\\SFML_Circle_Generator_Gravity_Collider_Physics\\SFMLsetup\\SFMLsetup\\Circle.cpp",
+              "RelativeDocumentMoniker": "SFMLsetup\\Circle.cpp",
+              "ToolTip": "C:\\Users\\rohai\\Desktop\\SFMLLearningProjects\\SFML_Circle_Generator_Gravity_Collider_Physics\\SFMLsetup\\SFMLsetup\\Circle.cpp",
+              "RelativeToolTip": "SFMLsetup\\Circle.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-29T15:55:23.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Collider.cpp",
+              "DocumentMoniker": "C:\\Users\\rohai\\Desktop\\SFMLLearningProjects\\SFML_Circle_Generator_Gravity_Collider_Physics\\SFMLsetup\\SFMLsetup\\Collider.cpp",
+              "RelativeDocumentMoniker": "SFMLsetup\\Collider.cpp",
+              "ToolTip": "C:\\Users\\rohai\\Desktop\\SFMLLearningProjects\\SFML_Circle_Generator_Gravity_Collider_Physics\\SFMLsetup\\SFMLsetup\\Collider.cpp",
+              "RelativeToolTip": "SFMLsetup\\Collider.cpp",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-05T18:17:29.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Collider.h",
+              "DocumentMoniker": "C:\\Users\\rohai\\Desktop\\SFMLLearningProjects\\SFML_Circle_Generator_Gravity_Collider_Physics\\SFMLsetup\\SFMLsetup\\Collider.h",
+              "RelativeDocumentMoniker": "SFMLsetup\\Collider.h",
+              "ToolTip": "C:\\Users\\rohai\\Desktop\\SFMLLearningProjects\\SFML_Circle_Generator_Gravity_Collider_Physics\\SFMLsetup\\SFMLsetup\\Collider.h",
+              "RelativeToolTip": "SFMLsetup\\Collider.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-05T18:09:39.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\rohai\\Desktop\\SFMLLearningProjects\\SFML_Circle_Generator_Gravity_Collider_Physics\\SFMLsetup\\SFMLsetup\\main.cpp",
+              "RelativeDocumentMoniker": "SFMLsetup\\main.cpp",
+              "ToolTip": "C:\\Users\\rohai\\Desktop\\SFMLLearningProjects\\SFML_Circle_Generator_Gravity_Collider_Physics\\SFMLsetup\\SFMLsetup\\main.cpp",
+              "RelativeToolTip": "SFMLsetup\\main.cpp",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAADoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-20T13:16:28.863Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
